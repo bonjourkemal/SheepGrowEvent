@@ -1,0 +1,7 @@
+main: me.bnjrkemal.org.Main
+version: 1.0
+author: bnjrKemal
+name: SheepGrowWool
+api-version: 1.13
+commands:
+  sheep:
